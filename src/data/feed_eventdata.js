@@ -42,6 +42,20 @@ const fallbackEvents = [
       avatar: "https://via.placeholder.com/60x60?text=GA",
     },
   },
+  {
+    id: 4,
+    title: "Marché des Arts Africains",
+    date: "Dimanche, 17 Décembre 2023 à 10:00",
+    description: "Explorez les œuvres d'artistes talentueux du Bénin.",
+    image: image02,
+    tags: ["Art", "Marché"],
+    organizer: {
+      name: "Groupe Ariya",
+      role: "Organisateur Principal",
+      avatar: "https://via.placeholder.com/60x60?text=GA",
+    },
+  },
+ 
 ];
 
 export default fallbackEvents;
